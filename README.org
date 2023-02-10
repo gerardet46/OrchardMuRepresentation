@@ -1,8 +1,0 @@
-#+title:  Orchard \($\mu$\)-data
-#+author: Gerard
-
-#+options: toc:nil
-#+property: header-args :results silent
-
-
-Jupyter notebook to test manipulation of orchard networks using the extended \($\mu$\)-data
