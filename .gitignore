@@ -1,0 +1,17 @@
+proves
+*.pyc
+build
+scripts
+*egg-info/
+.settings/
+.DS_Store
+dist/
+PhyloNetwork.egg-info/
+.pydevproject
+.idea
+doc/
+venv
+docs/_build
+.pytest_cache
+.python-version
+docs/.ipynb_checkpoints

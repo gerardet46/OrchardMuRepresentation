@@ -1,0 +1,7 @@
+name: orchard-mu
+dependencies:
+- networkx
+- pyparsing
+- numpy
+- matplotlib
+- pygraphviz
