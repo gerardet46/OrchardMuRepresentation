@@ -1,4 +1,5 @@
 proves
+*.ipynb_checkpoints/
 *.pyc
 build
 scripts
