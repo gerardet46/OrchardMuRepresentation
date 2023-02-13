@@ -1,7 +1,7 @@
 name: orchard-mu
 dependencies:
-- networkx
-- pyparsing
-- numpy
-- matplotlib
-- pygraphviz
+    - matplotlib
+    - pygraphviz
+    - pip
+    - pip:
+      - phylonetwork==2.2.1
