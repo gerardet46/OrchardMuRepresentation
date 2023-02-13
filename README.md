@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerardet46/OrchardMuData/HEAD?labpath=demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerardet46/OrchardMuRepresentation/HEAD?labpath=demo.ipynb)
 
 # Orchard μ-data
 
