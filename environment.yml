@@ -4,4 +4,4 @@ dependencies:
     - pygraphviz
     - pip
     - pip:
-      - phylonetwork==2.2.2
+      - phylonetwork==2.2.1
